@@ -12,7 +12,7 @@
   "deploy": "gh-pages -d dist",
   "start": "node server.js"
 },
-"homepage": "https://omarissajbour.github.io/students-management-app",
+"homepage": "https://omarissajbour.github.io/students-json-api",
 
   "dependencies": {
     "axios": "^1.10.0",
